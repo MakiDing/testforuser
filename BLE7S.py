@@ -1,6 +1,6 @@
 #成功运行版
 #尝试让端口可以同时输入三个板子数据
-#三个板子都能成功连接上
+#三个板子都能成功连接上，哈哈
 import asyncio
 import math
 import threading
